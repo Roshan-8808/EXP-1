@@ -64,19 +64,15 @@ b.  KCL:
 
 <img width="647" height="557" alt="image" src="https://github.com/user-attachments/assets/a12c324c-269e-498b-a6fa-ec66b6791a94" />
 
-
-
 Tabulation:
 
 a.   KVL:
  
 <img width="626" height="137" alt="image" src="https://github.com/user-attachments/assets/872da11a-3295-4079-83aa-9f706d13f693" />
 
-
 b.  KCL:
 
 <img width="647" height="140" alt="image" src="https://github.com/user-attachments/assets/1dcbd2d7-014f-4b12-a6e5-e8efdea76285" />
-
 
 RESULT:
 
